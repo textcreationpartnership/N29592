@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:039400_0000_1014216A0E469250"/>
-            <pb n="1" facs="tcp:039400_0001_1014216F2E7E7358"/>
+            <pb facs="unknown:039400_0000_1014216A0E469250"/>
+            <pb n="1" facs="unknown:039400_0001_1014216F2E7E7358"/>
             <head>CONVERSION EXEMPLIFIED.</head>
             <lg>
                <l>AND now, to Life Rais'd by the Heav'nly Call,</l>
@@ -128,7 +128,7 @@
                   <hi>Satan,</hi> Thou wilt, I know, my <hi>Tempter</hi> be;</l>
                <l>But thy <hi>Temptation</hi> ſhall not Govern me.</l>
                <l>
-                  <pb n="2" facs="tcp:039400_0002_10142170B7ADE030"/>
+                  <pb n="2" facs="unknown:039400_0002_10142170B7ADE030"/>
                   <hi>Fooliſh</hi> I've been; <hi>O Lord,</hi> I bluſh, I grieve;</l>
                <l>And gladly would my <hi>Woful Folly</hi> leave.</l>
                <l>Fain would I <hi>Turn</hi> to God, but can't <hi>alone</hi>:</l>
@@ -152,7 +152,7 @@
                <l>Eternal SPIRIT of God, Poor me wilt thou</l>
                <l>With <hi>Spiritual Bleſſings</hi> of all ſorts Endow?</l>
                <l>
-                  <pb n="3" facs="tcp:039400_0003_101421724A1C1E98"/>
+                  <pb n="3" facs="unknown:039400_0003_101421724A1C1E98"/>
                   <hi>Lord,</hi> Raviſh'd at thy wondrous <hi>Grace,</hi> I do</l>
                <l>Theſe <hi>Gracious Offers</hi> now Conform unto.</l>
             </lg>
@@ -178,7 +178,7 @@
                </l>
                <l>No <hi>Sorrows</hi> more ſhall them at all an<g ref="char:EOLhyphen"/>noy.</l>
                <l>
-                  <pb n="4" facs="tcp:039400_0004_10142174F27D2008"/>GOD ſhall be <hi>All in All</hi>; Brought nigh to God,</l>
+                  <pb n="4" facs="unknown:039400_0004_10142174F27D2008"/>GOD ſhall be <hi>All in All</hi>; Brought nigh to God,</l>
                <l>In <hi>Him</hi> they ſhall forever make Abode.</l>
                <l>They ſhall <hi>See God</hi>; The <hi>Beatific Sight!</hi>
                </l>
@@ -203,7 +203,7 @@
                <l>The full <hi>Obedience</hi> which my <hi>Surety</hi> paid</l>
                <l>To God, may <hi>That</hi> my <hi>Righteouſneſs</hi> be made.</l>
                <l>
-                  <pb n="5" facs="tcp:039400_0005_10142177816813B0"/>A <hi>Wretched</hi> Sinner would appear in <hi>That,</hi>
+                  <pb n="5" facs="unknown:039400_0005_10142177816813B0"/>A <hi>Wretched</hi> Sinner would appear in <hi>That,</hi>
                </l>
                <l>
                   <hi>Righteous</hi> before the dreadful <hi>Judgment-Seat.</hi>
@@ -228,7 +228,7 @@
                <l>Whoſe is my <hi>All,</hi> for <hi>He</hi> did me Re<g ref="char:EOLhyphen"/>deem.</l>
                <l>
                   <pb n="6"
-                      facs="tcp:039400_0006_1014218852296DE8"
+                      facs="unknown:039400_0006_1014218852296DE8"
                       rendition="simple:additions"/>To Thee, <hi>Good SPIRIT,</hi> I lift up my Cries,</l>
                <l>That thou wilt fall upon the <hi>Sacrifice.</hi>
                </l>
